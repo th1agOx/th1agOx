@@ -61,4 +61,5 @@ Atualmente focado em construir o ecossistema **Andromeda**, transformando o caos
 <a href="mailto:thdarochabp@gmail.com">
   <img src="https://img.shields.io" alt="Email">
 </a>
-- **Portfólio:** Explore meus repositórios abaixo para ver a governança e qualidade em ação.
+</br>
+Portfólio: Explore meus repositórios abaixo para ver a governança e qualidade em ação.
