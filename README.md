@@ -6,7 +6,7 @@ Atualmente focado em construir o ecossistema **Andromeda**, transformando o caos
 
 ---
 
-### 🚀 Pipeline de Projetos (Current Focus)
+###  Pipeline de Projetos (Current Focus)
 | Projeto  |  Frente  |  Status  |  Tech Principal  |
 | :------- | :------- | :------- | :--------------- |
 | **Andromeda** | `RPA-ETL` | 🧪 **Testando / MVP** |  Python & Pytest |
@@ -16,7 +16,7 @@ Atualmente focado em construir o ecossistema **Andromeda**, transformando o caos
 
 ---
 
-### 🛠️ Minha Stack Técnica
+###  Minha Stack Técnica
 
 #### Desenvolvimento & Web3
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
