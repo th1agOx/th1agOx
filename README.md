@@ -55,7 +55,10 @@ Atualmente focado em construir o ecossistema **Andromeda**, transformando o caos
 ---
 
 ### 🤝 Vamos nos conectar?
-[![LinkedIn](https://img.shields.io)](https://www.linkedin.com/in/thiago-da-rocha/)
-[![Email](https://img.shields.io)](mailto:thdarochabp@gmail.com)
-
+<a href="https://www.linkedin.com/in/thiago-da-rocha/" target="_blank">
+  <img src="https://img.shields.io" alt="LinkedIn">
+</a>
+<a href="mailto:thdarochabp@gmail.com">
+  <img src="https://img.shields.io" alt="Email">
+</a>
 - **Portfólio:** Explore meus repositórios abaixo para ver a governança e qualidade em ação.
