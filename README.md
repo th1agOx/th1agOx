@@ -41,14 +41,14 @@ Atualmente focado em construir o ecossistema **Andromeda**, transformando o caos
 
 ---
 
-### 🧠 Sobre mim
+###  Sobre mim
 -  Praticante de atividades físicas e entusiasta de corridas de rua.
 -  Fascinado pela psique humana e pelo comportamento dos mercados financeiros.
 -  Estudioso de finanças descentralizadas (DeFi) e o impacto de Oráculos de Compliance no mundo RWA.
 
 ---
 
-### 📈 Estatísticas de Engenharia
+###  Estatísticas de Engenharia
 ![Thiago's GitHub stats](https://github-readme-stats.vercel.app/api?username=th1agOx&show_icons=true&theme=slate)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=th1agOx&layout=compact&theme=slate)
 
