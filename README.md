@@ -46,8 +46,8 @@ Atualmente focado em construir o ecossistema **Andromeda**, transformando o caos
 -  Fascinado pela psique humana e pelo comportamento dos mercados financeiros.
 -  Estudioso de finanças descentralizadas (DeFi).
 
-** "In life, I don't believe in conditional logic. Even if we can write the algorithm, 
-we will never be able to execute it and explore the two arguments, because time does not move backwards" **
+**"In life, I don't believe in conditional logic. Even if we can write the algorithm, 
+we will never be able to execute it and explore the two arguments, because time does not move backwards"**
 
 ---
 
