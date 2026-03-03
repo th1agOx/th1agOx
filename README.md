@@ -44,7 +44,8 @@ Atualmente focado em construir o ecossistema **Andromeda**, transformando o caos
 ###  Sobre mim
 -  Praticante de atividades físicas e entusiasta de corridas de rua.
 -  Fascinado pela psique humana e pelo comportamento dos mercados financeiros.
--  Estudioso de finanças descentralizadas (DeFi) e o impacto de Oráculos de Compliance no mundo RWA.
+-  Estudioso de finanças descentralizadas (DeFi).
+**"In life, I don't believe in conditional logic. Even if we can write the algorithm, we will never be able to execute it and explore the two arguments, because time does not move backwards"**
 
 ---
 
