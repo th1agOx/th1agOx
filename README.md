@@ -51,12 +51,6 @@ we will never be able to execute it and explore the two arguments, because time 
 
 ---
 
-###  Estatísticas de Engenharia
-![Thiago's GitHub stats](https://github-readme-stats.vercel.app/api?username=th1agOx&show_icons=true&theme=slate)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=th1agOx&layout=compact&theme=slate)
-
----
-
 ### 🤝 Vamos nos conectar?
 <a href="https://www.linkedin.com/in/thiago-da-rocha/" target="_blank">
   <img src="https://img.shields.io" alt="LinkedIn">
