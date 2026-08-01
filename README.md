@@ -26,7 +26,7 @@ Desenvolvedor Jr Full Stack com foco em **Back-end, arquitetura de software e da
 - Triggers assíncronos e filas com **Redis**
 - Integração com gateways de pagamento
 - Orquestração de workflows com **n8n**
-### 📡 Radar Tecnológico
+### 📡 O que estou de olho
  
 `RAG` · `LLMs + pgvector` · `Regex de alta precisão para RPA` · `HTTP-Only Cookies`
  
