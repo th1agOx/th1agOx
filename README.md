@@ -1,62 +1,54 @@
-# ⚡ Thiago Rocha
-
-### Criador de infraestruturas cognitivas para o backoffice moderno
-
-Atualmente focado em construir o ecossistema **Andromeda**, transformando o caos de dados administrativos em ativos digitais auditáveis através de RPA, ETL e Inteligência Artificial.
-
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1C4E80&height=200&section=header&text=Thiago%20da%20Rocha&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Full%20Stack%20Developer%20%7C%20Back-end%20%26%20Arquitetura&descSize=18&descAlignY=65" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=4EA1D3&center=true&vCenter=true&width=600&lines=Java+%2B+Spring+Boot+%7C+APIs+RESTful;Arquitetura+de+Software+%26+Dados;Automa%C3%A7%C3%A3o+com+Python+(RPA%2FETL)" />
+</div>
 ---
-
-###  Pipeline de Projetos (Current Focus)
-| Projeto  |  Frente  |  Status  |  Tech Principal  |
-| :------- | :------- | :------- | :--------------- |
-| **Andromeda** | `RPA-ETL` | 🧪 **Testando / MVP** |  Python & Pytest |
-| **Andromeda** | `Semantic Core` | ⏸️ **Pausado (Redesenhando)** |  FastAPI & Redis  |
-| **Web3 Immersion** | `Blockchain Dev` | 🏗️ **Learning / Active** |  TS & Solidity  |
-| **Fatoração B2B** | `DeFi Oracle` | 💡 **Concept** | Web3.js |
-
+ 
+### 🧠 Sobre mim
+ 
+Desenvolvedor Full Stack com foco em **Back-end, arquitetura de software e dados**. Entrego soluções pensadas para produção: performáticas, seguras e sustentáveis a longo prazo — código limpo não é estética, é redução de risco pro negócio.
+ 
 ---
-
-###  Minha Stack Técnica
-
-#### Desenvolvimento & Web3
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-
-#### Mensageria & Performance
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-
-#### Inteligência & Vetorização (Core Semântico)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![K-Means](https://img.shields.io/badge/Vectorization-K--Means-blue?style=for-the-badge&logo=data-science)
-
-#### Governança & Qualidade
-![Pytest](https://img.shields.io/badge/pytest-%23C1E81C.svg?style=for-the-badge&logo=pytest&logoColor=black)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-FFB13B?style=for-the-badge&logo=githubactions&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-
-> **Nota:** Adepto do workflow **GitLab Flow** e arquiteturas orientadas a eventos para garantir rastreabilidade e integridade de dados.
-
+ 
+### 🔙 Core Backend — Java / Spring
+ 
+- APIs RESTful com **Java + Spring Boot**
+- Modelagem de dados com ORM sobre **PostgreSQL**
+- Clean Code: segregação de **DTOs via Mappers**, mantendo a camada de Service enxuta
+- Segurança com **JWT** e autorização baseada em hierarquia de papéis (**RBAC**)
+### 🤖 Automação & Dados — Python
+ 
+- RPA para automação de processos internos
+- ETL: transformação de textos e documentos não estruturados em dados estruturados
+### 🔗 Integrações & Assincronicidade
+ 
+- Triggers assíncronos e filas com **Redis**
+- Integração com gateways de pagamento
+- Orquestração de workflows com **n8n**
+### 📡 Radar Tecnológico
+ 
+`RAG` · `LLMs + pgvector` · `Regex de alta precisão para RPA` · `HTTP-Only Cookies`
+ 
 ---
-
-###  Sobre mim
--  Praticante de atividades físicas e entusiasta de corridas de rua.
--  Fascinado pela psique humana e pelo comportamento dos mercados financeiros.
--  Estudioso de finanças descentralizadas (DeFi).
-
-**"In life, I don't believe in conditional logic. Even if we can write the algorithm, 
-we will never be able to execute it and explore the two arguments, because time does not move backwards"**
-
+ 
+<div align="center">
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+ 
+</div>
 ---
-
-### 🤝 Vamos nos conectar?
-<a href="https://www.linkedin.com/in/thiago-da-rocha/" target="_blank">
-  <img src="https://img.shields.io" alt="LinkedIn">
-</a>
-<a href="mailto:thdarochabp@gmail.com">
-  <img src="https://img.shields.io" alt="Email">
-</a>
-</br>
-Portfólio: Explore meus repositórios abaixo para ver a governança e qualidade em ação.
+ 
+<div align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=th1agOx&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=th1agOx&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
+<div align="center">
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-da-rocha)
+ 
+</div>
