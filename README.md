@@ -45,7 +45,7 @@ Desenvolvedor Jr Full Stack com foco em **Back-end, arquitetura de software e da
 
 <div align="center">
 
-  <a href="https://www.linkedin.com/in/thiago-da-rocha", target="_blank">
+  <a href="https://www.linkedin.com/in/thiago-da-rocha" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
  
