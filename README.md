@@ -7,7 +7,7 @@
  
 ### 🧠 Sobre mim
  
-Desenvolvedor Full Stack com foco em **Back-end, arquitetura de software e dados**. Entrego soluções pensadas para produção: performáticas, seguras e sustentáveis a longo prazo — código limpo não é estética, é redução de risco pro negócio.
+Desenvolvedor Jr Full Stack com foco em **Back-end, arquitetura de software e dados**. Entrego soluções pensadas para produção: performáticas, seguras e sustentáveis a longo prazo — código limpo não é estética, é redução de risco e qualidade de produto final.
  
 ---
  
@@ -41,12 +41,6 @@ Desenvolvedor Full Stack com foco em **Back-end, arquitetura de software e dados
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-</div>
- 
-<div align="center">
- 
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=th1agOx&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=th1agOx&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 
 <div align="center">
