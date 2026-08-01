@@ -1,4 +1,6 @@
 <div align="center">
+# Olá, eu sou o Thiago! 👋
+ 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=4EA1D3&center=true&vCenter=true&width=600&lines=Java+%2B+Spring+Boot+%7C+APIs+RESTful;Arquitetura+de+Software+%26+Dados;Automa%C3%A7%C3%A3o+com+Python+(RPA%2FETL)" />
 </div>
  
@@ -46,8 +48,7 @@ Desenvolvedor Full Stack com foco em **Back-end, arquitetura de software e dados
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=th1agOx&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 <div align="center">
-<a href="https://www.linkedin.com/in/thiago-da-rocha">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+<a href="https://www.linkedin.com/in/thiago-da-rocha", target="_blank">
 </a>
  
 </div>
