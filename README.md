@@ -1,13 +1,13 @@
 <div align="center">
 
-### Olá, eu sou o Thiago! 👋
+### Olá, me chamo Thiago! 👋
  
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=4EA1D3&center=true&vCenter=true&width=600&lines=Java+%2B+Spring+Boot+%7C+APIs+RESTful;Arquitetura+de+Software+%26+Dados;Automa%C3%A7%C3%A3o+com+Python+(RPA%2FETL)" />
 </div>
  
 ### 🧠 Sobre mim
  
-Desenvolvedor Jr Full Stack com foco em **Back-end, arquitetura de software e dados**. Entrego soluções pensadas para produção: performáticas, seguras e sustentáveis a longo prazo — código limpo não é estética, é redução de risco e qualidade de produto final.
+Desenvolvedor Jr Full Stack com foco em **Back-end, arquitetura de software e dados**. Entrego soluções pensadas para produção: performáticas, seguras e sustentáveis a longo prazo.
  
 ---
  
