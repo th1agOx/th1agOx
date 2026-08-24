@@ -2,7 +2,7 @@
 
 ### Olá, me chamo Thiago! 👋
  
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=4EA1D3&center=true&vCenter=true&width=600&lines=Java+%2B+Spring+Boot+%7C+APIs+RESTful;Arquitetura+de+Software+%26+Dados;Automa%C3%A7%C3%A3o+com+Python+(RPA%2FETL)" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=4EA1D3&center=true&vCenter=true&width=600&lines=Java+%2B+Spring+Boot+%7C+APIs+RESTful;C%23+%2B+ASP.NET+%7C+APIs+RESTful;Arquitetura+de+Software+%26+Dados;Automa%C3%A7%C3%A3o+com+Python+(RPA%2FETL)" />
 </div>
  
 ### 🧠 Sobre mim
@@ -40,6 +40,8 @@ Desenvolvedor Jr Full Stack com foco em **Back-end, arquitetura de software e da
 <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" /> 
+<img src="https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" /> 
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
 </div>
 
