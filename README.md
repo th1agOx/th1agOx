@@ -22,7 +22,7 @@ Desenvolvedor Jr Full Stack com foco em **Back-end, arquitetura de software e da
  
 - RPA para automação de processos internos
 - ETL: transformação de textos e documentos não estruturados em dados estruturados
-### 🔗 Integrações & Assincronicidade
+### Integrações & Assincronicidade
  
 - Triggers assíncronos e filas com **RabbitMQ**
 - Integração com gateways de pagamento
