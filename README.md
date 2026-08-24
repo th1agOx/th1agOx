@@ -11,14 +11,14 @@ Desenvolvedor Jr Full Stack com foco em **Back-end, arquitetura de software e da
  
 ---
  
-### 🔙 Backend — Java, C# / Spring, ASP.NET
+### Backend — Java, C# / Spring, ASP.NET
  
 - APIs RESTful com **Java + Spring Boot** & **C# + ASP.NET**
 - Arquitetura **Domain-Driven Design (DDD)**
 - Modelagem de dados com ORM sobre **PostgreSQL** & **H2**
 - Clean Code: segregação de **DTOs via Mappers**, mantendo a camada de Service enxuta
 - Segurança com **JWT** e autorização baseada em hierarquia de papéis (**RBAC**)
-### 🤖 Automação & Dados — Python
+### Automação & Dados — Python
  
 - RPA para automação de processos internos
 - ETL: transformação de textos e documentos não estruturados em dados estruturados
@@ -27,7 +27,7 @@ Desenvolvedor Jr Full Stack com foco em **Back-end, arquitetura de software e da
 - Triggers assíncronos e filas com **RabbitMQ**
 - Integração com gateways de pagamento
 - Orquestração de workflows com **n8n**
-### 📡 O que estou de olho
+### O que estou de olho
  
 `RAG` · `LLMs + pgvector` · `Regex de alta precisão para RPA` · `HTTP-Only Cookies` . `Mensageria com RabbitMQ e Redis`
  
