@@ -5,16 +5,17 @@
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=4EA1D3&center=true&vCenter=true&width=600&lines=Java+%2B+Spring+Boot+%7C+APIs+RESTful;C%23+%2B+ASP.NET+%7C+APIs+RESTful;Arquitetura+de+Software+%26+Dados;Automa%C3%A7%C3%A3o+com+Python+(RPA%2FETL)" />
 </div>
  
-### 🧠 Sobre mim
+### Sobre mim
  
 Desenvolvedor Jr Full Stack com foco em **Back-end, arquitetura de software e dados**. Entrego soluções pensadas para produção: performáticas, seguras e sustentáveis a longo prazo.
  
 ---
  
-### 🔙 Core Backend — Java / Spring
+### 🔙 Backend — Java, C# / Spring, ASP.NET
  
-- APIs RESTful com **Java + Spring Boot**
-- Modelagem de dados com ORM sobre **PostgreSQL**
+- APIs RESTful com **Java + Spring Boot** & **C# + ASP.NET**
+- Arquitetura **Domain-Driven Design (DDD)**
+- Modelagem de dados com ORM sobre **PostgreSQL** & **H2**
 - Clean Code: segregação de **DTOs via Mappers**, mantendo a camada de Service enxuta
 - Segurança com **JWT** e autorização baseada em hierarquia de papéis (**RBAC**)
 ### 🤖 Automação & Dados — Python
@@ -23,12 +24,12 @@ Desenvolvedor Jr Full Stack com foco em **Back-end, arquitetura de software e da
 - ETL: transformação de textos e documentos não estruturados em dados estruturados
 ### 🔗 Integrações & Assincronicidade
  
-- Triggers assíncronos e filas com **Redis**
+- Triggers assíncronos e filas com **RabbitMQ**
 - Integração com gateways de pagamento
 - Orquestração de workflows com **n8n**
 ### 📡 O que estou de olho
  
-`RAG` · `LLMs + pgvector` · `Regex de alta precisão para RPA` · `HTTP-Only Cookies`
+`RAG` · `LLMs + pgvector` · `Regex de alta precisão para RPA` · `HTTP-Only Cookies` . `Mensageria com RabbitMQ e Redis`
  
 ---
  
@@ -36,6 +37,7 @@ Desenvolvedor Jr Full Stack com foco em **Back-end, arquitetura de software e da
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" />
 <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" />
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
