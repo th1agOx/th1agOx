@@ -29,7 +29,7 @@ Desenvolvedor Jr Full Stack com foco em **Back-end, arquitetura de software e da
 - Orquestração de workflows com **n8n**
 ### O que estou de olho
  
-`RAG` · `LLMs + pgvector` · `Regex de alta precisão para RPA` · `HTTP-Only Cookies` . `Mensageria com RabbitMQ e Redis`
+`RAG` · `LLMs + pgvector` · `Regex de alta precisão para RPA` · `HTTP-Only Cookies` . `Mensageria com RabbitMQ e Redis` . `Testes Unitários e Integrados com pytest e xUnit.net` . `GitHub Actions CI/CD`  
  
 ---
  
