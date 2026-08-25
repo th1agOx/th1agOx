@@ -1,6 +1,6 @@
 <div align="center">
 
-### Olá, me chamo Thiago! 👋
+### Olá, me chamo Thiago!
  
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=4EA1D3&center=true&vCenter=true&width=600&lines=Java+%2B+Spring+Boot+%7C+APIs+RESTful;C%23+%2B+ASP.NET+%7C+APIs+RESTful;Arquitetura+de+Software+%26+Dados;Automa%C3%A7%C3%A3o+com+Python+(RPA%2FETL)" />
 </div>
